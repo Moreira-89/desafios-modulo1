@@ -1,29 +1,3 @@
 # desafios-modulo1
  Projeto que ira juntar todos os desafios do modulo um. 
-<h1>Projeto Desafios do Modulo 01</h1>
-    <h2>O objetivo é praticar todos os conceitos do modulo 1 do curso de HTML5 e CSS3 feito pelo Curso em Video. Utizarei somente conceitos mostrado e ensinados no modulo 01.</h2>
-    <hr>
-    <h2>Lista de desafios:</h2>
-    <ul>
-        <li>Desafio das Mensagens (<a href="desafio001/d01.html">aqui</a>)</li>
 
-        <li>Desafio das Imagens (<a href="desafio002/d02.html">aqui</a>)</li>
-
-        <li>Mapa Mundi(<a href="desafio003/d03.html">aqui</a>)</li>
-
-        <li>Meus Emojis Favoritos (<a href="desafio004/d04.html">aqui</a>)</li>
-
-        <li>Meu Perfil Social (<a href="desafio005/d05.html">aqui</a>)</li>
-
-        <li>Desafio das Tags (<a href="desafio006/d06.html">aqui</a>)</li>
-
-        <li>Imagem Flexível (<a href="desafio007/d07.html">aqui</a>)</li>
-
-        <li>Criando uma Navegação(<a href="desafio008/d08.html">aqui</a>)</li>
-
-        <li>Seus vídeos favoritos (<a href="desafio009/d09.html">aqui</a>)</li>
-    </ul>
-    <h2>Todos os desafios acima foram desenvolvidos pelo Professor Guanabara do Curso em Vídeo.</h2>
-    <h3>Site do <a href="https://www.cursoemvideo.com/ " target="_blank" >Curso em Vídeo</a></h3>
-    <h3>GitHub do <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara </a></h3>
-    <h3>Canal no Youtube do <a href="https://www.youtube.com/cursoemvideo" target="_blank">Curso em Vídeo</a></h3>

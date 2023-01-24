@@ -5,8 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagina 01</title>
+    <link rel="shortcut icon" href="" type="image/x-icon">
 </head>
 <body style="background-color:dimgray">
     <h1>Imagem Flexível</h1>
+    <h1>Imagem Flexível</h1>
+    <h2>Nesse desafio foi praticar o uso da TAG picture e a TAG source que nos possibilita a fazer mudanças nas imagens. Uma das coisas que elas pode fazer é imagens Flexíveis.</h2>
+    <hr>
+    <picture>
+        <source media="(max-width: 750px )" srcset="imagens/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1240px )" srcset="imagens/paisagem-m.png" type="image/png">
+        <img src="imagens/paisagem-g.png" alt="image/png">
+    </picture>
+    <h2>Tente diminuir o tamanho da Janela do navegador!!</h2>
 </body>
 </html>
